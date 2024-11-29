@@ -30,6 +30,6 @@ public class SinhVien {
             diemChu = 'D';
         else
             diemChu = 'D';
-        System.out.println("Xep loai cua sinh vien la: ");
+        System.out.println("Xep loai cua sinh vien la: "+diemChu);
     }
 }
